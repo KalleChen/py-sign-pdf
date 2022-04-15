@@ -49,4 +49,5 @@ def sign_pades():
                 )
 
 
-sign_pades()
+if __name__ == "__main__":
+    sign_with_timestamp()
